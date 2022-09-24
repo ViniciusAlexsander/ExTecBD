@@ -7,4 +7,13 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Db4objects.Db4o">
+      <HintPath>C:\Program Files (x86)\Db4objects\db4o-7.4\bin\net-2.0\Db4objects.Db4o.dll</HintPath>
+    </Reference>
+    <Reference Include="Db4objects.Db4o.Linq">
+      <HintPath>C:\Program Files (x86)\Db4objects\db4o-7.4\bin\net-2.0\Db4objects.Db4o.Linq.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
